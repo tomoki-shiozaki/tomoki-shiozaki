@@ -1,15 +1,10 @@
-```markdown
 # 👋 Hi there / こんにちは
 
 ## About Me / 自己紹介
 
-I am learning full-stack web development with experience across design, implementation, testing, and deployment.  
-My main focus is backend engineering with Python and Django, but I also enjoy working on frontend development and continue to study React.  
-Although I do not have professional experience yet, I build applications end-to-end using Docker, CI/CD, and GCP as part of my personal learning projects.
+I am learning web application development and currently focusing on full-stack development using React and Django REST Framework (DRF). Although I do not have professional experience yet, I have created several personal projects as my portfolio.
 
-Python と Django を中心に学びながら、要件定義・設計・実装・テスト・Docker・CI/CD・GCP でのデプロイまで、開発の一連の流れを個人開発で再現しています。  
-バックエンドを軸としつつ、React を使ったフロントエンド開発にも興味を持って取り組んでいます。  
-まだ実務経験はありませんが、フルスタックの基礎を身につけるために継続して学習しています。
+私は Web アプリ開発を学んでおり、現在は React と Django REST Framework (DRF) を使ったフルスタック開発に取り組んでいます。実務経験はまだありませんが、いくつかのプロジェクトをポートフォリオとして作成しました。
 
 ## Skills / スキル
 
@@ -37,8 +32,3 @@ Python と Django を中心に学びながら、要件定義・設計・実装�
 ## Contact / 連絡
 
 - GitHub Issues や Discussions でご連絡いただけます。
-
----
-
-（必要があれば、この README の内容は随時更新していきます。）
-```
