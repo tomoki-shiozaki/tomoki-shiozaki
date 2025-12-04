@@ -8,14 +8,11 @@ I am learning web application development and currently focusing on full-stack d
 
 ## Skills / スキル
 
-- Python / Django（Web アプリケーション開発）
-- Django REST Framework（API 開発）
-- JavaScript / React（学習中）
+- Backend: Python / Django, Django REST Framework (DRF)
+- Frontend: JavaScript / TypeScript, React
 - Docker / Docker Compose
-- CI/CD（GitHub Actions）
-- Google Cloud Platform（Cloud Run / Cloud Build など）
-- 自動テスト（pytest / Django test framework）
-- 要件定義・設計・実装・デプロイまでの一連の開発経験
+- CI/CD (GitHub Actions)
+- Google Cloud (Cloud Run / Cloud Build)
 
 ## Projects / 制作物
 
