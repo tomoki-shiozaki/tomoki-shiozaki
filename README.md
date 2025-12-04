@@ -2,9 +2,9 @@
 
 ## About Me / 自己紹介
 
-I am learning web application development and currently focusing on full-stack development using React and Django REST Framework (DRF). Although I do not have professional experience yet, I have created several personal projects as my portfolio.
+I am learning web application development and currently focusing on full-stack development using React and Django REST Framework (DRF). Although I do not have professional experience yet, I have built several personal projects as part of my portfolio.
 
-私は Web アプリ開発を学んでおり、現在は React と Django REST Framework (DRF) を使ったフルスタック開発に取り組んでいます。実務経験はまだありませんが、いくつかのプロジェクトをポートフォリオとして作成しました。
+私は Web アプリ開発を学んでおり、現在は React と Django REST Framework (DRF) を使ったフルスタック開発に取り組んでいます。実務経験はまだありませんが、個人開発としていくつかのプロジェクトを制作しています。
 
 ## Skills / スキル
 
