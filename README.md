@@ -21,3 +21,7 @@ I am learning web application development and currently focusing on full-stack d
 - **野球部タレントマネジメントアプリ**：身体能力登録や３段階の承認フロー、選手やチームのデータをグラフで可視化、比較。Django で制作。
 - **オセロアプリ**：オセロのゲームロジック・UI などを実装。Django で制作。
 - その他、学習目的で作成した小規模プロジェクトもあります。
+
+## Links / 外部リンク
+
+- Qiita（技術記事）: https://qiita.com/tomoki-shiozaki
