@@ -15,6 +15,7 @@ I am learning web application development and currently focusing on full-stack d
 - Cloud: Google Cloud (Cloud Run / Cloud Build / Cloud Storage)
 
 ## Projects / 制作物
+- **Spend Pause**：購入前に立ち止まる時間を作り、記録をつけることで、より良い買い物の判断をサポートするアプリ。Django + Terraform + Google Cloud を用いて開発。
 - **VizShare（CSVデータ可視化アプリ）**：CSVの時系列データをアップロードし、インタラクティブに可視化・共有できるWebアプリ。DRF + Next.js + Terraform + Google Cloud を用いて開発。
 - **気候変動データ可視化アプリ**：気候変動データをグラフや地図で可視化。DRF と React で制作。
 - **図書館アプリ**：蔵書登録、検索、貸出、予約、返却など。Django で制作。
